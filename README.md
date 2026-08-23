@@ -1,16 +1,17 @@
-## Hi there 👋
+# Valéria dos Santos Reiser
 
-<!--
-**valleria-web/valleria-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer building and investigating software systems.
 
-Here are some ideas to get you started:
+Creator of **HORA.city** and **Payload Journey LAB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building with
+TypeScript · React · Next.js · JavaScript · Node.js · MongoDB
+
+### Current work
+- **HORA.city** — real-time location-based web system
+- **Payload Trace Engine** — deterministic tracing and protocol engine
+- **Payload Journey LAB** — software system investigation methods and tooling
+
+### Focus
+Full-stack engineering · System design · UI/UX · APIs ·
+Software tracing · AI-assisted engineering
