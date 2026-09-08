@@ -6,8 +6,8 @@ Creator of **Payload Journey LAB** and **HORA.city**, developing methods and eng
 
 ### Current work
 
-* **Payload Journey LAB** — software system investigation lab developing Payload Journey, USMT, Reverse Payload Journey, Track to Origin, Trace Engineering and evidence-based investigation practices
-* **Trace Engineer Protocol (TEP)** — developing protocol for structuring software investigations through explicit states, gates, evidence and validation
+* **Payload Journey LAB** - software system investigation lab developing Payload Journey, USMT, Reverse Payload Journey, Track to Origin, Trace Engineering and evidence-based investigation practices
+* **Trace Engineer Protocol (TEP)** - developing protocol for structuring software investigations through explicit states, gates, evidence and validation
 * **HORA.city** — real-time location-based software system and founding reference case for Payload Journey LAB investigations
 
 ### Engineering focus
