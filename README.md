@@ -1,4 +1,4 @@
-Valéria dos Santos Reiser
+### Valéria dos Santos Reiser
 
 Software Engineer building and investigating software systems.
 
@@ -21,7 +21,7 @@ TypeScript · React · Next.js · JavaScript · Node.js · MongoDB
 
 Current engineering principle
 
-Follow the flow. Understand the system.
+### Follow the flow. Understand the system.
 
 AI can accelerate implementation.
 System understanding and engineering authority must remain verifiable.
