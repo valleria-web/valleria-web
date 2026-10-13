@@ -1,4 +1,4 @@
-### Valéria dos Santos Reiser
+## Valéria dos Santos Reiser
 
 Software Engineer building and investigating software systems.
 
